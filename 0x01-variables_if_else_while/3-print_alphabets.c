@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main-entry point
  * return: o if no error, or else non zero
