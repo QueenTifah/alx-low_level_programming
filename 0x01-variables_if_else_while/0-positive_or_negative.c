@@ -1,10 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
- * main - Entry point
- *Description: 'the program's description'
- * Return: Always 0
+/**
+ * main-program entry point.
+ * Return:0-no error,non zero value if error.
  */
 int main(void)
 {
