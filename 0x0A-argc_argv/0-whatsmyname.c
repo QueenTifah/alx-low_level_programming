@@ -7,9 +7,8 @@
  * @argv: arguments
  * Return: Always 0
  */
-int main(argc, char argv[])
+int main(int argc __attribute__((unused)), char *argv[])
 {
-	(void) argv;
-	printf("%s\n", arg[0]);
+	printf("%s\n", *arg[]);
 	return (0);
 }
