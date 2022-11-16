@@ -1,1 +1,1 @@
-low level language
+low level languages
